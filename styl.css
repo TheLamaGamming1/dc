@@ -1,0 +1,17 @@
+#left{
+    background-color:blueviolet;
+    width:10%;
+    height:900px;
+    float:left;
+}
+#right{
+    background-color:blueviolet;
+    width:10%;
+    height:900px;
+    float:right;
+}
+#dc{
+    background-color:antiquewhite;
+    width:90%;
+    height:900px;
+}
